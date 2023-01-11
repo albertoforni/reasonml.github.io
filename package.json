@@ -17,7 +17,7 @@
     "gatsby-remark-prismjs": "^1.0.1",
     "gatsby-remark-smartypants": "^1.0.1",
     "gatsby-source-filesystem": "^1.0.1",
-    "gatsby-transformer-remark": "^1.0.1",
+    "gatsby-transformer-remark": "^5.25.1",
     "glamor": "^3.0.0-2",
     "gray-matter": "^3.0.2",
     "react-codemirror": "^1.0.0",
